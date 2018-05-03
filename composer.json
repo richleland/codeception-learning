@@ -1,0 +1,12 @@
+{
+    "name": "rleland/codeception",
+    "require": {
+        "codeception/codeception": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Rich Leland",
+            "email": "rich.leland@avaaz.org"
+        }
+    ]
+}
